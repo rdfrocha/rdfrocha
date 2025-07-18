@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hey hey 👋🏽
 
+- ✨ Sorry, was working on making this a fancy profile when a shiny object took my focus ✨
 <!--
 **rdfrocha/rdfrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rdfrocha/rdfrocha/output/github-contribution-grid-snake-dark.svg" />
