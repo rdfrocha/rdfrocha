@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/rdfrocha/rdfrocha/blob/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/rdfrocha/rdfrocha/blob/output/github-contribution-grid-snake.svg" />
-<img alt="Snake-Eats-My-Activity" src="https://github.com/rdfrocha/rdfrocha/blob/output/github-contribution-grid-snake.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rdfrocha/rdfrocha/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rdfrocha/rdfrocha/output/github-contribution-grid-snake.svg" />
+<img alt="Snake-Eats-My-Activity" src="https://raw.githubusercontent.com/rdfrocha/rdfrocha/output/github-contribution-grid-snake.svg" />
 </picture>
