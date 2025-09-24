@@ -1,6 +1,7 @@
 ## Hey hey 👋🏽
 
-- ✨ Sorry, was working on making this a fancy profile but a shiny object took my focus ✨
+- Sorry, was about to make this a fancy profile but
+Hey! Shiny object! ✨
 <!--
 **rdfrocha/rdfrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
